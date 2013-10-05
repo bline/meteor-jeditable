@@ -1,0 +1,2 @@
+# Meteor package for jeditable
+
