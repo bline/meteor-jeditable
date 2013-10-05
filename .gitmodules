@@ -1,0 +1,15 @@
+[submodule "jquery_jeditable"]
+	path = jquery_jeditable
+	url = https://github.com/tuupola/jquery_jeditable
+[submodule "jquery.maskedinput"]
+	path = jquery.maskedinput
+	url = https://github.com/digitalBush/jquery.maskedinput
+[submodule "jquery-autogrow"]
+	path = jquery-autogrow
+	url = https://github.com/akaihola/jquery-autogrow
+[submodule "jquery-timepicker"]
+	path = jquery-timepicker
+	url = https://github.com/andhapp/jquery-timepicker
+[submodule "jquery-autocomplete"]
+	path = jquery-autocomplete
+	url = https://github.com/dyve/jquery-autocomplete
